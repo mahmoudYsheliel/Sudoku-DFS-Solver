@@ -1,5 +1,5 @@
 # Sudoku DFS Solver
-  sudoku is one of the most popular games world wide. In this project, we try ro solve the game in fastest way possible.
+  sudoku is one of the most popular games world wide. In this project, we try to solve the game in fastest way possible.
 
 ![Screencast from 05-06-2025 04-36-28 PM](https://github.com/user-attachments/assets/68fff0e5-2f0e-4512-8b9c-5d8b3a27ebd9)
 
